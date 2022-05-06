@@ -1,0 +1,64 @@
+h1
+{
+  text-align: center;
+  color: white;
+}
+
+h3
+{
+  color: white;
+}
+
+
+body
+{
+  background-color: darkslateblue;
+}
+
+a.button1
+{
+  background-color: white;
+  border: 2px solid black;
+  color: crimson;
+  padding: 5px 10px;
+  font-size: 20px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+
+
+a.button2
+{
+  background-color: white;
+  border: 2px solid black;
+  color: crimson;
+  padding: 5px 10px;
+  font-size: 20px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+a.button3
+{
+  background-color: white;
+  border: 2px solid black;
+  color: crimson;
+  padding: 5px 10px;
+  font-size: 20px;
+  margin: 20px;
+  cursor: pointer;
+
+}
+
+a.button4
+{
+  background-color: white;
+  border: 2px solid black;
+  color: crimson;
+  padding: 5px 10px;
+  font-size: 20px;
+  margin: 20px;
+  cursor: pointer;
+
+}
